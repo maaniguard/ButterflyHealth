@@ -1,7 +1,7 @@
 # ButterflyHealth
 
 ## Overview
-**ButterflyHealth** is a .NET 8 application that provides a calculator service with RESTful APIs for basic arithmetic operations such as addition, subtraction, multiplication, and division. It includes comprehensive unit tests to ensure the accuracy and reliability of the operations.
+**ButterflyHealth** is a .NET 8 application that provides a calculator service with RESTful APIs for basic arithmetic operations such as addition, subtraction, multiplication, and division. It includes unit tests to ensure the accuracy and reliability of the operations.
 
 ## Features
 - **Addition**: Add two numbers.
@@ -13,12 +13,11 @@
 - **.NET 8**
 - **ASP.NET Core 8**
 - **xUnit** for unit testing
-- **Moq** for mocking dependencies in tests
 
 ## Getting Started
 
 ### Prerequisites
-- **.NET 8 SDK**: Ensure you have the .NET 8 SDK installed on your machine. You can download it from the [official .NET website](https://dotnet.microsoft.com/download).
+- **.NET 8 SDK**: Ensure you have the .NET 8 SDK installed on your machine.
 
 ### Installation
 1. **Clone the repository**:
