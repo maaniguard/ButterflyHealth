@@ -1,0 +1,6 @@
+@ButterflyHealth_HostAddress = http://localhost:5234
+
+GET {{ButterflyHealth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
