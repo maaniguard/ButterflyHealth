@@ -10,7 +10,7 @@
 - **Division**: Divide one number by another, with handling for division by zero.
 
 ## Technologies Used
-- **.NET 8**
+- ** C#.NET **
 - **ASP.NET Core 8**
 - **xUnit** for unit testing
 
